@@ -1,0 +1,27 @@
+xcanary
+xguess with all colors match in position
+xguess with all colors mismatch
+xguess with all colors match out of position
+xguess with first four colors match in position
+xguess with last four colors match in position
+xguess with first three colors match in position and the last three match out of position
+xguess with first and third color mismatch, second in position, and the others match out of position
+xguess with the first color in the selected colors repeated five times (six of the same color)
+xguess with the last color in the selected colors repeated (six of the same color)
+xguess with the first color in the selected colors repeated from position two to six, with first position in the guess having the second color in selection
+xguess with the first color in the selected colors repeated from position two to six, with first position in the guess having no match
+xguess with selected colors having the first and the last color the same
+xguess with selected colors having five colors instead of six
+xguess with user provided colors having five colors instead of six
+xplay for the 1st attempt with exact match
+xplay for the 1st attempt with no match
+xplay for the 1st attempt with some exact and some non-exact match
+xplay for the 2nd attempt with exact match
+xplay for the 2nd attempt with no match
+xplay for the 20th attempt with exact match
+xplay for the 20th attempt with no match
+xplay for the 21st attempt with exact match
+xplay for the 21st attempt with no match
+xplay for the 1st attempt with selected colors having 5 instead of 6 colors
+xrandomize selected colors given
+xrandomized selected colors is different when called twice
